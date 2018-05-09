@@ -1,4 +1,10 @@
-### Summary
-* [Introduction](contents/introduction.md)  
-* [Use RESTful](contents/use-restful.md)  
-* [Implement HTTPs](contents/implement-https.md)  
+# Table of contents
+
+* [Introduction](README.md)
+
+## Summary
+
+* [Introduction](summary/introduction.md)
+* [Use RESTful](summary/use-restful.md)
+* [Implement HTTPs](summary/implement-https.md)
+
