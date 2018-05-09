@@ -6,5 +6,8 @@ The following **web-based** application programming interface (API) standards gu
 
 This guide is meant for showcasing (as of now)
 
+## Disclaimer
+These guidelines provide one standardlised way of designing REST web-based APIs for most scenarions in WOG. Depending on your use cases, there could be better designing principles that might not be convered in this standards guide.
+
 ## License
 Release under [MIT LICENSE](https://github.com/robincher/gds-api-guides/blob/master/LICENSE)
