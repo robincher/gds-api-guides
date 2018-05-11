@@ -1,4 +1,4 @@
-# HTTP Verb and URL Convention
+# REST HTTP URL Convention
 
 **Restful API URL \(Uniform Resource Locator\) Convention and General Guidelines**
 
