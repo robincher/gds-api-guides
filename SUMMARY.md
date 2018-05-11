@@ -4,7 +4,7 @@
 
 ## Summary
 
-* [Introduction](summary/introduction.md)
+* [API Standards and Guidance](summary/introduction.md)
 * [Use RESTful](summary/use-restful.md)
 * [Implement HTTPs](summary/implement-https.md)
 
