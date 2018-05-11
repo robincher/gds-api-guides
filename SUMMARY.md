@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [API Standards and Guidance](README.md)
 
 ## Summary
 
-* [API Standards and Guidance](summary/introduction.md)
+* [Introduction](summary/introduction.md)
 * [Use RESTful](summary/use-restful.md)
 * [Implement HTTPs](summary/implement-https.md)
+* [HTTP Verb and URL Convention](summary/http-verb-and-url-convention.md)
 
