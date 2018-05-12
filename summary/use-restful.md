@@ -1,8 +1,10 @@
 # Use RESTful
 
-Follow the widely adopted standard and where appropriate design your digital services using **REST**.
+As much as possible, follow the widely adopted industry's standard and where appropriate design your digital services using **REST, **an architecture standard based on HTTP.
 
-Abstracted from [OSWAP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet) 
+**What is REST?**
+
+Abstracted from [OSWAP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet) :
 
 _The key abstraction of information in **REST** is a resource. A REST API resource is identified by a URI, usually a HTTP URL. REST components use connectors to perform actions on a resource by using a representation to capture the current or intended state of the resource and transferring that representation. The primary connector types are client and server, secondary connectors include cache, resolver and tunnel. In order to implement flows with REST APIs, resources are typically created, read, updated and deleted._
 
