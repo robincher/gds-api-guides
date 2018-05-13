@@ -7,5 +7,7 @@
 * [Introduction](summary/introduction.md)
 * [Use RESTful](summary/use-restful.md)
 * [Implement HTTPs](summary/implement-https.md)
-* [REST HTTP URL Convention](summary/http-verb-and-url-convention.md)
+* [RESTful API Design Principles](summary/restful-api-design-principles/README.md)
+  * [HTTP URL Convention](summary/restful-api-design-principles/http-verb-and-url-convention.md)
+* [Use JSON](summary/use-json.md)
 
