@@ -1,6 +1,10 @@
+---
+description: HTTP URL (Uniform Resource Locator) Convention and General Guidelines
+---
+
 # HTTP URL Convention
 
-**Restful API URL \(Uniform Resource Locator\) Convention and General Guidelines**
+When forming a REST endpoint URL, think fo the following :
 
 1. ** **URL represent a resource, and it should be named as a nouns , not a verb.
 2. Provide version number in the API URL.
