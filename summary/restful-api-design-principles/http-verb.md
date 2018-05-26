@@ -99,7 +99,7 @@ GET /users
  { "id": 2, "username": "newuser", "email": "newuser@example.org" }]
 ```
 
-Calling the same **PATCH request again **as above ,a new duplicated record will be added. 
+Calling the same **PATCH request again** as above ,a new duplicated record will be added. 
 
 ```javascript
 PUT /users
