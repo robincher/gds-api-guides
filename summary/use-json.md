@@ -4,7 +4,7 @@ description: Using JSON for your web-based APIS
 
 # Use JSON
 
-When designing new web-based digital services, the **recommendation message type is JSON \(Javascript Object Notation\)**. JSON is simple, extensible and human readable. Moreover, data represented in JSON format can be easily parsed by a web browser, where most of the application are built upon.
+When designing new web-based digital services, the **recommendation message type is JSON \(Javascript Object Notation\),** which follow ****the **** [RFC-7159](https://tools.ietf.org/html/rfc7159) standard. JSON is simple, extensible and human readable. Additionally, data represented in JSON format can be easily parsed by a web browser, where most of the application are built upon. 
 
 Only consider other message content type when there are requirements to 
 

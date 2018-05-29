@@ -4,7 +4,7 @@ description: Use standard and language-agnostic standards for REST API design
 
 # REST API Specification Standard
 
-Use a standard and language-agnostic standards when defining your REST APIs.  [OpenAPI \(OAS\)](https://github.com/OAI/OpenAPI-Specification) is an API specification standard that help design APIs in a machine-readable and human-friendly manners. We recommend agencies to adopt this definition standard for their REST API design.
+Use a standard and language-agnostic standards when defining your REST APIs.  [OpenAPI \(OAS\)](https://github.com/OAI/OpenAPI-Specification) is an API specification standard that help design APIs in a machine-readable and human-friendly manners. We **strongly recommend** agencies to adopt this definition standard for their REST API design.
 
 There are a several advantages when adopting an language-agnostic specification
 
