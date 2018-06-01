@@ -18,4 +18,6 @@
   * Filter , Sort and Search
   * Pagination
   * [Date and Time Format](summary/restful-api-design-principles/date-and-time-format.md)
+* [API Consumers](api-consumers/README.md)
+  * [Loose Coupling](api-consumers/loose-coupling.md)
 

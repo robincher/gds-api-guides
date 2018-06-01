@@ -4,7 +4,7 @@ description: Using the right HTTP Response Code for your API
 
 # HTTP Response Code
 
-Every API designed should use standard HTTP response code to represent whether a specific [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) request operation has been successfully completed and communicate error to the clients.
+Every API designed should use standard HTTP response code to represent whether a specific [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) request operation has been successfully completed and communicate error to the consumers
 
 | **CATEGORY** | **DESCRIPTION** |
 | --- | --- | --- | --- | --- | --- |
