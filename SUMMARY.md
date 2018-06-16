@@ -7,6 +7,7 @@
 * [Introduction](summary/introduction.md)
 * [Use RESTful](summary/use-restful.md)
 * [Use JSON](summary/use-json.md)
+* [REST API Specification Standard](summary/rest-api-specification-standard.md)
 * [REST API Design Principles](summary/restful-api-design-principles/README.md)
   * [HTTP URL Convention](summary/restful-api-design-principles/http-verb-and-url-convention.md)
   * [HTTP Verb \(Standard Methods\)](summary/restful-api-design-principles/http-verb.md)
@@ -22,5 +23,4 @@
   * [Implement HTTPs](summary/security-and-monitoring/implement-https.md)
 * [API Consumers](summary/api-consumers/README.md)
   * [Loose Coupling](summary/api-consumers/loose-coupling.md)
-* [REST API Specification Standard](summary/rest-api-specification-standard.md)
 
