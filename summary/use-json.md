@@ -1,5 +1,5 @@
 ---
-description: Using JSON for your web-based APIS
+description: Using JSON for your REST web-based APIS
 ---
 
 # Use JSON
