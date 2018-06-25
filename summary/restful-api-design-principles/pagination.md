@@ -1,5 +1,5 @@
 ---
-description: API Response Pagination
+description: Pagination for your API Response
 ---
 
 # Pagination
