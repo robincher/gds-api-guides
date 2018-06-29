@@ -1,5 +1,5 @@
 ---
-description: 'API response filtering , sort and search'
+description: 'API response filtering , sorting and searching'
 ---
 
 # Filter , Sort and Search
