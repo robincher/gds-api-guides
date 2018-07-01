@@ -1,5 +1,5 @@
 ---
-description: Use standard and language-agnostic standards for REST API design
+description: Use language-agnostic standards for REST API design
 ---
 
 # REST API Specification Standard
