@@ -1,5 +1,5 @@
 ---
-description: All good security principles when designing and building APIs
+description: All good security and monitoringprinciples when designing APIs
 ---
 
 # Security and Monitoring
