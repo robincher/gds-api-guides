@@ -13,6 +13,7 @@
   * [HTTP Verb \(Standard Methods\)](summary/restful-api-design-principles/http-verb.md)
   * [HTTP Verb \(Custom Methods\)](summary/restful-api-design-principles/http-verb-custom-methods.md)
   * [HTTP Response Code](summary/restful-api-design-principles/http-response-code.md)
+  * [Error Handling](summary/restful-api-design-principles/error-handling.md)
   * [Date and Time Format](summary/restful-api-design-principles/date-and-time-format.md)
   * [Versioning](summary/restful-api-design-principles/versioning.md)
   * [Pagination](summary/restful-api-design-principles/pagination.md)
