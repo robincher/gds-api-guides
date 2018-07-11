@@ -1,6 +1,6 @@
 # Table of contents
 
-* [API Standards and Guidance](README.md)
+* [REST API Standards and Guidance](README.md)
 
 ## Summary
 
