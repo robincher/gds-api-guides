@@ -6,6 +6,10 @@ The following REST **web-based** application programming interface \(API\) stand
 
 This REST API guide is meant for showcasing \(as of now\). 
 
+#### Contribution
+
+Please fork this repository and create a pull request.
+
 ## Disclaimer
 
 These guidelines provide one standardlised way of designing REST web-based APIs for most scenarions in WOG. Depending on your use cases, there could be better designing principles that might not be convered in this standards guide.
