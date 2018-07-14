@@ -6,6 +6,7 @@
 
 * [Introduction](summary/introduction.md)
 * [Use RESTful](summary/use-restful.md)
+* [Protocol of the Web](summary/protocol-of-the-web.md)
 * [Use JSON](summary/use-json.md)
 * [REST API Specification Standard](summary/rest-api-specification-standard.md)
 * [REST API Design Principles](summary/restful-api-design-principles/README.md)
@@ -25,5 +26,4 @@
   * [HTTP Signatures](summary/security-and-monitoring/http-signatures.md)
 * [API Consumers](summary/api-consumers/README.md)
   * [Loose Coupling](summary/api-consumers/loose-coupling.md)
-* [Protocol of the Web](summary/protocol-of-the-web.md)
 
