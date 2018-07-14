@@ -25,4 +25,5 @@
   * [HTTP Signatures](summary/security-and-monitoring/http-signatures.md)
 * [API Consumers](summary/api-consumers/README.md)
   * [Loose Coupling](summary/api-consumers/loose-coupling.md)
+* [Protocol of the Web](summary/protocol-of-the-web.md)
 
