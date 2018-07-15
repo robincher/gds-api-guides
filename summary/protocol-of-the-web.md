@@ -12,6 +12,10 @@ HTTP are made up of several components
 
 #### URL
 
+URL \(Uniform Resource Locator\) is a web address that reference to a web **resource.**  Additionally, it specify the mechanism \(HTTP, FTP for example\) that retrieve this particular resource.  URLs are made resources like web pages and images, and API extend it even further by including nouns like Customers and Products. This allow API consumers to tell the server which resource it want to consume.
+
+
+
 #### Methods
 
 #### Headers
