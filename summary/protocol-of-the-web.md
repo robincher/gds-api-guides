@@ -10,6 +10,8 @@ HTTP are made up of several components
 
 ### HTTP Request
 
+![Figure 1 : HTTP Request](../.gitbook/assets/http-request%20%281%29.png)
+
 #### URL
 
 URL \(Uniform Resource Locator\) is a web address that reference to a web **resource.**  Additionally, it specify the mechanism \(HTTP, FTP for example\) that retrieve this particular resource.  URLs are made for resources like web pages and images, and API extend it even further by including nouns like Customers and Products. This allow API consumers to tell the server which resource it want to consume.
@@ -56,6 +58,8 @@ Host: www.example.com
 Unlike the URL,Headers and HTTP Methods that requires a rigid structure, the body allows the client to send anything it needs.
 
 ### HTTP Response
+
+![Figure 2 : HTTP Response](../.gitbook/assets/http-response.png)
 
 After the server processed the request, it will return a response. The response is similar to the corresponding request, with only an additional status code.
 
