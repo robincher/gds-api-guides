@@ -1,7 +1,3 @@
----
-description: HTTP URL (Uniform Resource Locator) Convention and General Guidelines
----
-
 # HTTP URL Convention
 
 When forming a REST endpoint URL, think fo the following :

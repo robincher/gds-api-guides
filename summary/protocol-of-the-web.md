@@ -1,7 +1,3 @@
----
-description: Use HTTP (Hyper-Text Transfer Protocol) for RESTful API
----
-
 # Protocol of the Web
 
 On the world-wide web where web pages are served, the main transmission protocol is **HTTP, or Hyper-Text Transfer Protocol**. Due to its ubiquity and familiarity to developers , many companies choose to adopt it as the underlying protocol for their RESTful API.
@@ -67,7 +63,7 @@ After the server processed the request, it will return a response. The response 
 
 Status code are 3 digit numbers with unique meaning. If designed correctly, this numbers will provide useful information to the API consumers. 
 
-Detailed explanation can be found [here](restful-api-design-principles/http-response-code.md) about designing the correct HTTP code when handling response.
+Detailed explanation can be found [here](rest-api-design-principles/http-response-code.md) about designing the correct HTTP code when handling response.
 
-Additionally, you can also e refer to[ REST API Design](restful-api-design-principles/) section for more in depth discussion of good design principles for API based on HTTP.
+Additionally, you can also e refer to[ REST API Design](rest-api-design-principles/) section for more in depth discussion of good design principles for API based on HTTP.
 

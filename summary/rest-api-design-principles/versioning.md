@@ -1,7 +1,3 @@
----
-description: REST API Versioning
----
-
 # Versioning
 
 Due to changing business nature and requirements,  it is imperative to provide versioning mechanism on your published API. While updating your API seems to be a simple process,  you must consider how the changes will affect your existing API consumers. The changes to an API **MUST NOT** break existing clients

@@ -1,7 +1,3 @@
----
-description: Use RESTful for web-based API
----
-
 # Use RESTful
 
 As much as possible, follow the widely adopted industry's standard and where appropriate design your digital services, or api, using **REST,** an architecture standard based on HTTP.

@@ -1,7 +1,3 @@
----
-description: 'API response filtering , sorting and searching'
----
-
 # Filter , Sort and Search
 
 As your API start to grows ,  you may want to implement filters at the **URL level** to restricts the data returned. Filter can be append as a query parameter named for the field to be filtered on, the value should  be the value you need to filter for.

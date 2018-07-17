@@ -1,7 +1,3 @@
----
-description: Monitoring API activity at your resource endpoint too
----
-
 # Monitor API activity
 
 Beside implementing prevent security measure, monitoring help to identify potential breaches so as to allow remediation steps to be taken without delay.

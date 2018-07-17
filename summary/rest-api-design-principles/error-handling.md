@@ -1,7 +1,3 @@
----
-description: Error handling for REST API
----
-
 # Error Handling
 
 Error handling is one  the most important part of any REST API. You must provide sufficient information on why the error occured so as to allow recovery and prevention, while ensuring that the error message are not over-exposing with sensitive information.

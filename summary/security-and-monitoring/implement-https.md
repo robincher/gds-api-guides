@@ -1,7 +1,3 @@
----
-description: Implementing HTTPs to protect content in transit
----
-
 # Implement HTTPs
 
 REST API should be served only through HTTPS.

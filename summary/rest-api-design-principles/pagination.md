@@ -1,7 +1,3 @@
----
-description: Pagination for your API Response
----
-
 # Pagination
 
 To handle the potential grow of your APIs,  we recommend you to design your API in a manner that supports pagination. 
