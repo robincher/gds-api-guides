@@ -1,6 +1,6 @@
 # HTTP URL Convention
 
-When forming a REST endpoint URL, think fo the following :
+When forming a REST endpoint URL, think of the following :
 
 1.  ****URL represent a resource, and it should be named as a nouns , not a verb.
 2. Provide version number in the API URL.
