@@ -4,7 +4,7 @@ The following REST **web-based** application programming interface \(API\) stand
 
 **Demo and Beta Phase**
 
-This REST API guide is meant for showcasing \(as of now\) and will continue to evolved.
+This REST API guide is meant for showcasing \(as of now\) and the contents will continue to evolved.
 
 #### Contribution
 
