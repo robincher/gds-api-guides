@@ -3,7 +3,7 @@
 Every API designed should use standard HTTP response code to represent whether a specific [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) request operation has been successfully completed and communicate error to the consumers
 
 | **CATEGORY** | **DESCRIPTION** |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **1xx: Informational**        | Communicates transfer protocol-level information. |
 | **2xx: Success** | Indicates that the client’s request was accepted successfully. |
 | **3xx: Redirection**         | Indicates that the client must take some additional action in order to complete their request. |

@@ -3,7 +3,7 @@
 HTTP verbs, or methods, should be used in compliance with their definitions under the [HTTP/1.1](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html) standard. The action taken on the representation will be contextual to the media type being worked on and its current state.
 
 | Method Description | GET | POST | PUT | PATCH | DELETE |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | CRUD Operation | Read | Create | Update | Update | Delete |
 | /api/v1/promotions | List all promotions | Create a new promotion | Bulk update all promotions\* | Bulk update all promotions specific fields | Delete all Promotions |
 | /api/v1/promotions/{id} | Get a single promotion | Error | Update a single promotion based on an identifier if exists, else show error | Update specific fields of a single promotion based on an identifier if exists, else show error | Delete a single Promotion based on an identifier |

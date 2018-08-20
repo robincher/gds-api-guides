@@ -12,7 +12,7 @@ Please fork this repository and create a pull request.
 
 ## Disclaimer
 
-These guidelines provide one standardlised way of designing REST web-based APIs for most scenarions in WOG. Depending on your use cases, there could be better designing principles that might not be convered in this standards guide.
+These guidelines only provide one standardized way of designing REST web-based APIs for most scenarios in WOG. Depending on your use cases, there could be better designing principles that might not be covered in this standards guide.
 
 ## License
 

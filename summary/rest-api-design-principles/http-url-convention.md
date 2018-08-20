@@ -11,7 +11,7 @@ Below are a few examples of good and bad url convention of the API resource URL.
 **Good Examples**
 
 | GET : api/v1/promotions |
-| --- | --- | --- | --- | --- | --- |
+| :--- |
 | GET : api/v1/promotions/{promotionId} |
 | GET : api/v1/promotions/?querystring=value |
 | POST : api/v1/promotions |
@@ -21,7 +21,7 @@ Below are a few examples of good and bad url convention of the API resource URL.
 **Bad Examples**
 
 | **Non-Plural Noun:** api/v1/promotion |
-| --- | --- | --- |
+| :--- |
 | **Using Verb** : api/v1/getMyPromotion |
 | **No Versioning:** api/promotions |
 
@@ -46,7 +46,7 @@ For example, GitHub's API lets you **star** a gist with **PUT /gists/:id/star** 
 **Good Examples**
 
 | api/v1/promotions/{promotionId}/expire |
-| --- | --- | --- |
+| :--- |
 |  api/v1/users/{userId}/unlock |
 | api/v1/users/{userId}/lock |
 
@@ -57,7 +57,7 @@ Sometimes you really have no way to map the action to a sensible RESTful structu
 **Good Examples**
 
 | api/v1/promotions/search |
-| --- | --- | --- |
+| :--- |
 | api/v1/promotions/query |
 | api/v1/promotions/fields |
 
@@ -65,7 +65,7 @@ Sometimes you really have no way to map the action to a sensible RESTful structu
 **Bad Example**
 
 | api/v1/promotions/{promotionID}/users/{promotion.user.id} |
-| --- |
+| :--- |
 
 
 
