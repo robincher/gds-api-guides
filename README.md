@@ -1,6 +1,6 @@
 # REST API Standards and Guidance
 
-The following REST **web-based** application programming interface \(API\) standards guidance will help your agency deliver the best possible digital services to users. The aim is to encourage consistency, maintainability, and best practices across applications within WOG, and balanced it with a positive developer's experience.
+The following REST **web-based** application programming interface \(API\) standards guidance will help your agency deliver the best possible digital services to users. The aim is to encourage consistency, maintainability, and good practices  within WOG, and balanced it with a positive developer's experience.
 
 **Demo and Beta Phase**
 
