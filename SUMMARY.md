@@ -31,4 +31,5 @@
   * [HTTP Signatures](summary/security-and-monitoring/http-signatures.md)
 * [API Consumers](summary/api-consumers/README.md)
   * [Loose Coupling](summary/api-consumers/loose-coupling.md)
+* [Handling Null Values](summary/handling-null-values.md)
 
