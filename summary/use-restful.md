@@ -10,7 +10,7 @@ _The key abstraction of information in **REST** is a resource. A REST API resour
 
 R. As compared to traditional SOA integration which focus more on operations that are use-case specific, REST is centered around business entities exposed as resources , and can be manipulate with standardized CRUD-like methods.
 
-* We prefer REST-based APIs with [JSON payloads](use-json.md)
+* We prefer REST-based APIs with [JSON payloads](use-json/)
 * We prefer new systems to be built with REST
 
 In some cases, it may not be applicable to build a REST API, for example, when you are building an API to stream data or required the message to be persistent.

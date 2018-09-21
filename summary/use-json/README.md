@@ -9,7 +9,7 @@ Only consider other message content type when there are requirements to
 
 We recommend you should:
 
-* use consistent grammar case for object keys - choose **CamelCase** if possible. Look at [Restful API Design Principles](rest-api-design-principles/) section for more information.
+* use consistent grammar case for object keys - choose **CamelCase** if possible. Look at [Restful API Design Principles](../rest-api-design-principles/) section for more information.
 
 ```text
 {
