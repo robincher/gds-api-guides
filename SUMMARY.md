@@ -9,6 +9,7 @@
 * [Use RESTful](summary/use-restful.md)
 * [Use JSON](summary/use-json/README.md)
   * [JSON Property Names](summary/use-json/json-property-names.md)
+  * [Handling Null Values](summary/use-json/handling-null-values.md)
 * [Documentation](summary/documentation/README.md)
   * [REST API Specification Standard](summary/documentation/rest-api-specification-standard.md)
   * [Avoid large companion documents](summary/documentation/avoid-large-companion-documents.md)
@@ -31,5 +32,4 @@
   * [HTTP Signatures](summary/security-and-monitoring/http-signatures.md)
 * [API Consumers](summary/api-consumers/README.md)
   * [Loose Coupling](summary/api-consumers/loose-coupling.md)
-* [Handling Null Values](summary/handling-null-values.md)
 
