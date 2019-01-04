@@ -30,6 +30,7 @@
   * [Monitor API activity](summary/security-and-monitoring/monitor-api-activity.md)
   * [Implement HTTPs](summary/security-and-monitoring/implement-https.md)
   * [HTTP Signatures](summary/security-and-monitoring/http-signatures.md)
+  * [Penetration Testing](summary/security-and-monitoring/penetration-testing.md)
 * [API Consumers](summary/api-consumers/README.md)
   * [Loose Coupling](summary/api-consumers/loose-coupling.md)
 
