@@ -8,7 +8,7 @@ Abstracted from [OSWAP](https://www.owasp.org/index.php/REST_Security_Cheat_Shee
 
 _The key abstraction of information in **REST** is a resource. A REST API resource is identified by a URI, usually a HTTP URL. REST components use connectors to perform actions on a resource by using a representation to capture the current or intended state of the resource and transferring that representation. The primary connector types are client and server, secondary connectors include cache, resolver and tunnel. In order to implement flows with REST APIs, resources are typically created, read, updated and deleted._
 
-R. As compared to traditional SOA integration which focus more on operations that are use-case specific, REST is centered around business entities exposed as resources , and can be manipulate with standardized CRUD-like methods.
+As compared to traditional SOA integration which focus more on operations that are use-case specific, REST is centered around business entities exposed as resources , and can be manipulate with standardized CRUD-like methods.
 
 * We prefer REST-based APIs with [JSON payloads](use-json/)
 * We prefer new systems to be built with REST
