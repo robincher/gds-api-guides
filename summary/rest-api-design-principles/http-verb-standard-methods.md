@@ -22,15 +22,26 @@ For example, when updating a single field of a resource, sending the whole resou
 
 Examples below show how you can update a single resource's entity with both PATCH and PUT.
 
-```text
-PATCH /users/1{    "email": "skwee357@gmail.com"       // new email address}
+```javascript
+PATCH /users/1
+{
+    "email": "skwee357@gmail.com"// new email address
+}
 ```
 
 {% code-tabs %}
 {% code-tabs-item title="Update by PUT" %}
 ```javascript
 PUT /users/1
-{    "username": "kltan1999",    "email": "kltan@gmail.com" // new email address    "mobile" : "12345677",    "gender" : "female",    "race" : "other",    "job" : "Software Engineer",    "accountStatus" : "active",    }
+{    
+   "username": "kltan1999",    
+   "email": "kltan@gmail.com" // new email address    
+   "mobile" : "12345677",    
+   "gender" : "female",    
+   "race" : "other",    
+   "job" : "Software Engineer",    
+   "accountStatus" : "active",   
+ }
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}

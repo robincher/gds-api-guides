@@ -10,7 +10,7 @@ Every API designed should use standard HTTP response code to represent whether a
 | **4xx: Client Error** | Error caused by the client |
 | **5xx: Server Error** | Error originated from the server |
 
-Read more at  ["Common" HTTP Status Code](https://github.com/for-GET/know-your-http-well/blob/master/status-codes.md#common) for the codes description, and get familiar with their semantics.  
+Read more at  [Common HTTP Status Code](https://github.com/for-GET/know-your-http-well/blob/master/status-codes.md#common) for the codes description, and get familiar with their semantics.  
 
 
 ### Example \(Communicating an API Error\)
